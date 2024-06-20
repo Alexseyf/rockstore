@@ -19,7 +19,7 @@ function App() {
   return (
     <>
       <Header />
-        <div>{listaAlbuns}</div>
+        <div className="albuns__container">{listaAlbuns}</div>
     </>
   );
 }

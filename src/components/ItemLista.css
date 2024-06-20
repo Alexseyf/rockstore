@@ -1,0 +1,44 @@
+.list__container{
+    display: flex;
+    flex-direction: column;
+    margin-top: 2rem;
+    padding:  20px;
+    width: 30rem;
+}
+
+.list__capa{
+    width: 100%;
+}
+
+.list__items{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.list__title{
+    font-size: 2rem;
+}
+
+.list__rating{
+    display: flex;
+}
+
+.list__rating__item{
+    font-size: 1.5rem;;
+}
+
+.preco-cart{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.add__cart__btn{
+    background-color: var(--primary-gray);
+    color: white;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+    border-radius: 5px;
+}
