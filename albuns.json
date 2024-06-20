@@ -1,0 +1,262 @@
+[
+  {
+    "id": 1,
+    "titulo": "Vol4",
+    "artista": "Black Sabbath",
+    "ano": 1972,
+    "genero": "Heavy Metal",
+    "capa": "1.jpg",
+    "preco": 100,
+    "descricao": "Vol. 4 é o quarto álbum de estúdio da banda britânica de heavy metal Black Sabbath, lançado em 1972. O álbum foi certificado como disco de ouro em 1972 e disco de platina em 1986. O álbum foi reeditado em 1996 com uma faixa bônus. Em 2000, foi reeditado em uma versão remasterizada. Em 2009, foi lançada uma edição deluxe com dois discos."
+  },
+  {
+    "id": 2,
+    "titulo": "Black Sabbath",
+    "artista": "Black Sabbath",
+    "ano": 1970,
+    "genero": "Heavy Metal",
+    "capa": "2.jpg",
+    "preco": 120,
+    "descricao": "Black Sabbath é o álbum de estreia da banda de heavy metal Black Sabbath, lançado em 1970. O álbum foi muito bem recebido pela crítica e é considerado um dos primeiros álbuns de heavy metal da história. O álbum foi certificado como disco de platina nos Estados Unidos e no Reino Unido."
+  },
+  {
+    "id": 3,
+    "titulo": "Get a grip",
+    "artista": "Aerosmith",
+    "ano": 1993,
+    "genero": "Hard Rock",
+    "capa": "3.jpg",
+    "preco": 80,
+    "descricao": "Get a Grip é o décimo primeiro álbum de estúdio da banda de hard rock Aerosmith, lançado em 1993. O álbum foi muito bem recebido pela crítica e é considerado um dos melhores álbuns da banda. O álbum foi certificado como disco de platina nos Estados Unidos e no Reino Unido."
+  },
+  {
+    "id": 4,
+    "titulo": "Fly by night",
+    "artista": "Rush",
+    "ano": 1975,
+    "genero": "Progressive Rock",
+    "capa": "4.jpg",
+    "preco": 90,
+    "descricao": "Fly by Night é o segundo álbum de estúdio da banda canadense de rock progressivo Rush, lançado em 1975. O álbum foi muito bem recebido pela crítica e é considerado um dos melhores álbuns da banda. O álbum foi certificado como disco de ouro nos Estados Unidos e no Reino Unido."
+  },
+  {
+    "id": 5,
+    "titulo": "Disraeli Gears",
+    "artista": "Cream",
+    "ano": 1967,
+    "genero": "Blues Rock",
+    "capa": "5.jpg",
+    "preco": 110,
+    "descricao": "Disraeli Gears é o segundo álbum de estúdio da banda britânica de blues rock Cream, lançado em 1967. O álbum foi muito bem recebido pela crítica e é considerado um dos melhores álbuns da banda. O álbum foi certificado como disco de ouro nos Estados Unidos e no Reino Unido."
+  },
+  {
+    "id": 6,
+    "titulo": "Desire",
+    "artista": "Bob Dylan",
+    "ano": 1976,
+    "genero": "Folk Rock",
+    "capa": "6.jpg",
+    "preco": 70,
+    "descricao": "Desire é o décimo sétimo álbum de estúdio do cantor e compositor norte-americano Bob Dylan, lançado em 1976. O álbum foi muito bem recebido pela crítica e é considerado um dos melhores álbuns de Dylan. O álbum foi certificado como disco de ouro nos Estados Unidos e no Reino Unido."
+  },
+  {
+    "id": 7,
+    "titulo": "Aladdin Sane",
+    "artista": "David Bowie",
+    "ano": 1973,
+    "genero": "Glam Rock",
+    "capa": "7.jpg",
+    "preco": 60,
+    "descricao": "Aladdin Sane é o sexto álbum de estúdio do cantor e compositor britânico David Bowie, lançado em 1973. O álbum foi muito bem recebido pela crítica e é considerado um dos melhores álbuns de Bowie. O álbum foi certificado como disco de ouro nos Estados Unidos e no Reino Unido."
+  },
+  {
+    "id": 8,
+    "titulo": "Ziggy Stardust",
+    "artista": "David Bowie",
+    "ano": 1972,
+    "genero": "Glam Rock",
+    "capa": "8.jpg",
+    "preco": 50,
+    "descricao": "The Rise and Fall of Ziggy Stardust and the Spiders from Mars é o quinto álbum de estúdio do cantor e compositor britânico David Bowie, lançado em 1972. O álbum foi muito bem recebido pela crítica e é considerado um dos melhores álbuns de Bowie. O álbum foi certificado como disco de ouro nos Estados Unidos e no Reino Unido."
+  },
+  {
+    "id": 9,
+    "titulo": "Burn",
+    "artista": "Deep Purple",
+    "ano": 1974,
+    "genero": "Hard Rock",
+    "capa": "9.jpg",
+    "preco": 40,
+    "descricao": "Burn é o oitavo álbum de estúdio da banda britânica de hard rock Deep Purple, lançado em 1974. O álbum foi muito bem recebido pela crítica e é considerado um dos melhores álbuns da banda. O álbum foi certificado como disco de ouro nos Estados Unidos e no Reino Unido."
+  },
+  {
+    "id": 10,
+    "titulo": "Machine Head",
+    "artista": "Deep Purple",
+    "ano": 1972,
+    "genero": "Hard Rock",
+    "capa": "10.jpg",
+    "preco": 30,
+    "descricao": "Machine Head é o sexto álbum de estúdio da banda britânica de hard rock Deep Purple, lançado em 1972. O álbum foi muito bem recebido pela crítica e é considerado um dos melhores álbuns da banda. O álbum foi certificado como disco de ouro nos Estados Unidos e no Reino Unido."
+  },
+  {
+    "id": 11,
+    "titulo": "Pearl",
+    "artista": "Janis Joplin",
+    "ano": 1971,
+    "genero": "Blues Rock",
+    "capa": "11.jpg",
+    "preco": 20,
+    "descricao": "Pearl é o segundo álbum de estúdio da cantora norte-americana Janis Joplin, lançado em 1971. O álbum foi muito bem recebido pela crítica e é considerado um dos melhores álbuns de Joplin. O álbum foi certificado como disco de ouro nos Estados Unidos e no Reino Unido."
+  },
+  {
+    "id": 12,
+    "titulo": "Joplin in Concert",
+    "artista": "Janis Joplin",
+    "ano": 1972,
+    "genero": "Blues Rock",
+    "capa": "12.jpg",
+    "preco": 10,
+    "descricao": "In Concert é o primeiro álbum ao vivo da cantora norte-americana Janis Joplin, lançado em 1972. O álbum foi muito bem recebido pela crítica e é considerado um dos melhores álbuns ao vivo de Joplin. O álbum foi certificado como disco de ouro nos Estados Unidos e no Reino Unido."
+  },
+  {
+    "id": 13,
+    "titulo": "Broadsword and the Beast",
+    "artista": "Jethro Tull",
+    "ano": 1982,
+    "genero": "Progressive Rock",
+    "capa": "13.jpg",
+    "preco": 110,
+    "descricao": "The Broadsword and the Beast é o décimo quinto álbum de estúdio da banda britânica de rock progressivo Jethro Tull, lançado em 1982. O álbum foi muito bem recebido pela crítica e é considerado um dos melhores álbuns da banda. O álbum foi certificado como disco de ouro nos Estados Unidos e no Reino Unido."
+  },
+  {
+    "id": 14,
+    "titulo": "Aqualung",
+    "artista": "Jethro Tull",
+    "ano": 1971,
+    "genero": "Progressive Rock",
+    "capa": "14.jpg",
+    "preco": 120,
+    "descricao": "Aqualung é o quarto álbum de estúdio da banda britânica de rock progressivo Jethro Tull, lançado em 1971. O álbum foi muito bem recebido pela crítica e é considerado um dos melhores álbuns da banda. O álbum foi certificado como disco de ouro nos Estados Unidos e no Reino Unido."
+  },
+  {
+    "id": 15,
+    "titulo": "This was",
+    "artista": "Jethro Tull",
+    "ano": 1968,
+    "genero": "Progressive Rock",
+    "capa": "15.jpg",
+    "preco": 130,
+    "descricao": "This Was é o álbum de estreia da banda britânica de rock progressivo Jethro Tull, lançado em 1968. O álbum foi muito bem recebido pela crítica e é considerado um dos melhores álbuns da banda. O álbum foi certificado como disco de ouro nos Estados Unidos e no Reino Unido."
+  },
+  {
+    "id": 16,
+    "titulo": "Songs from the Wood",
+    "artista": "Jethro Tull",
+    "ano": 1977,
+    "genero": "Progressive Rock",
+    "capa": "16.jpg",
+    "preco": 140,
+    "descricao": "Songs from the Wood é o décimo álbum de estúdio da banda britânica de rock progressivo Jethro Tull, lançado em 1977. O álbum foi muito bem recebido pela crítica e é considerado um dos melhores álbuns da banda. O álbum foi certificado como disco de ouro nos Estados Unidos e no Reino Unido."
+  },
+  {
+    "id": 17,
+    "titulo": "Are you experienced",
+    "artista": "The Jimi Hendrix Experience",
+    "ano": 1967,
+    "genero": "Blues Rock",
+    "capa": "17.jpg",
+    "preco": 150,
+    "descricao": "Are You Experienced é o álbum de estreia da banda The Jimi Hendrix Experience, lançado em 1967. O álbum foi muito bem recebido pela crítica e é considerado um dos melhores álbuns de Hendrix. O álbum foi certificado como disco de ouro nos Estados Unidos e no Reino Unido."
+  },
+  {
+    "id": 18,
+    "titulo": "Wish you were here",
+    "artista": "Pink Floyd",
+    "ano": 1975,
+    "genero": "Progressive Rock",
+    "capa": "18.jpg",
+    "preco": 160,
+    "descricao": "Wish You Were Here é o nono álbum de estúdio da banda britânica de rock progressivo Pink Floyd, lançado em 1975. O álbum foi muito bem recebido pela crítica e é considerado um dos melhores álbuns da banda. O álbum foi certificado como disco de ouro nos Estados Unidos e no Reino Unido."
+  },
+  {
+    "id": 19,
+    "titulo": "The Wall",
+    "artista": "Pink Floyd",
+    "ano": 1979,
+    "genero": "Progressive Rock",
+    "capa": "19.jpg",
+    "preco": 170,
+    "descricao": "The Wall é o décimo primeiro álbum de estúdio da banda britânica de rock progressivo Pink Floyd, lançado em 1979. O álbum foi muito bem recebido pela crítica e é considerado um dos melhores álbuns da banda. O álbum foi certificado como disco de ouro nos Estados Unidos e no Reino Unido."
+  },
+  {
+    "id": 20,
+    "titulo": "The division bell",
+    "artista": "Pink Floyd",
+    "ano": 1994,
+    "genero": "Progressive Rock",
+    "capa": "20.jpg",
+    "preco": 180,
+    "descricao": "The Division Bell é o décimo quarto álbum de estúdio da banda britânica de rock progressivo Pink Floyd, lançado em 1994. O álbum foi muito bem recebido pela crítica e é considerado um dos melhores álbuns da banda. O álbum foi certificado como disco de ouro nos Estados Unidos e no Reino Unido."
+  },
+  {
+    "id": 21,
+    "titulo": "The dark side of the moon",
+    "artista": "Pink Floyd",
+    "ano": 1973,
+    "genero": "Progressive Rock",
+    "capa": "21.jpg",
+    "preco": 190,
+    "descricao": "The Dark Side of the Moon é o oitavo álbum de estúdio da banda britânica de rock progressivo Pink Floyd, lançado em 1973. O álbum foi muito bem recebido pela crítica e é considerado um dos melhores álbuns da banda. O álbum foi certificado como disco de ouro nos Estados Unidos e no Reino Unido."
+  },
+  {
+    "id": 22,
+    "titulo": "Atom Heart Mother",
+    "artista": "Pink Floyd",
+    "ano": 1970,
+    "genero": "Progressive Rock",
+    "capa": "22.jpg",
+    "preco": 200,
+    "descricao": "Atom Heart Mother é o quinto álbum de estúdio da banda britânica de rock progressivo Pink Floyd, lançado em 1970. O álbum foi muito bem recebido pela crítica e é considerado um dos melhores álbuns da banda. O álbum foi certificado como disco de ouro nos Estados Unidos e no Reino Unido."
+  },
+  {
+    "id": 23,
+    "titulo": "Animals",
+    "artista": "Pink Floyd",
+    "ano": 1977,
+    "genero": "Progressive Rock",
+    "capa": "23.jpg",
+    "preco": 210,
+    "descricao": "Animals é o décimo álbum de estúdio da banda britânica de rock progressivo Pink Floyd, lançado em 1977. O álbum foi muito bem recebido pela crítica e é considerado um dos melhores álbuns da banda. O álbum foi certificado como disco de ouro nos Estados Unidos e no Reino Unido."
+  },
+  {
+    "id": 24,
+    "titulo": "The white album",
+    "artista": "The Beatles",
+    "ano": 1968,
+    "genero": "Rock",
+    "capa": "24.jpg",
+    "preco": 220,
+    "descricao": "The Beatles é o nono álbum de estúdio da banda britânica The Beatles, lançado em 1968. O álbum foi muito bem recebido pela crítica e é considerado um dos melhores álbuns da banda. O álbum foi certificado como disco de ouro nos Estados Unidos e no Reino Unido."
+  },
+  {
+    "id": 25,
+    "titulo": "Sargent Pepper's lonely hearts club band",
+    "artista": "The Beatles",
+    "ano": 1967,
+    "genero": "Rock",
+    "capa": "25.jpg",
+    "preco": 230,
+    "descricao": "Sgt. Pepper's Lonely Hearts Club Band é o oitavo álbum de estúdio da banda britânica The Beatles, lançado em 1967. O álbum foi muito bem recebido pela crítica e é considerado um dos melhores álbuns da banda. O álbum foi certificado como disco de ouro nos Estados Unidos e no Reino Unido."
+  },
+  {
+    "id": 26,
+    "titulo": "Revolver",
+    "artista": "The Beatles",
+    "ano": 1966,
+    "genero": "Rock",
+    "capa": "26.jpg",
+    "preco": 240,
+    "descricao": "Revolver é o sétimo álbum de estúdio da banda britânica The Beatles, lançado em 1966. O álbum foi muito bem recebido pela crítica e é considerado um dos melhores álbuns da banda. O álbum foi certificado como disco de ouro nos Estados Unidos e no Reino Unido."
+  }
+]

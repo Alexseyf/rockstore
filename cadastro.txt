@@ -1,0 +1,8 @@
+    "id": 27,
+    "titulo": "Abbey Road",
+    "artista": "The Beatles",
+    "ano": 1969,
+    "genero": "Rock",
+    "capa": "27.jpg",
+    "preco": 250,
+    "descricao": "Abbey Road é o décimo primeiro álbum de estúdio da banda britânica The Beatles, lançado em 1969. O álbum foi muito bem recebido pela crítica e é considerado um dos melhores álbuns da banda. O álbum foi certificado como disco de ouro nos Estados Unidos e no Reino Unido."
