@@ -1,0 +1,64 @@
+.novo__container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.form__container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 2rem;
+}
+
+h2{
+    font-size: 1.5rem;
+    margin-top: 2rem;
+}
+
+:placeholder-shown{
+    font-size: 1rem;
+    color: #333;
+}
+
+form input{
+    width: 20rem;
+    margin: 1rem 0;
+    padding: 0.5rem;
+    border-radius: 5px;
+    border: none;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+}
+
+form input:hover{
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
+
+form textarea{
+    width: 20rem;
+    margin: 1rem 0;
+    padding: 0.5rem;
+    border-radius: 5px;
+    border: none;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+}
+
+form button{
+    margin-top: 2rem;
+    background-color: #fab848;
+    color: white;
+    font-size: 1.5rem;
+    padding: 0.5rem 1rem;
+    border-radius: 5px;
+    cursor: pointer;
+    border: none;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+    transition: background-color 0.3s;
+}
+
+form button:hover{
+    background-color: #f7a00c;
+}

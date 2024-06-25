@@ -1,10 +1,14 @@
 .header__container{
+    position: fixed; 
+    top: 0;
+    left: 0;
+    width: 100%;
     display: flex;
     justify-content: space-around;
     align-items: center;
-    /* margin: 0 10rem; */
     padding: 20px 0;
     border-bottom: 1px solid #e0e0e0;
+    background-color: white;
 }
 
 .header__logo__container{
@@ -57,6 +61,7 @@
 
 .header__search__btn:hover{
     background-color: var(--hover-gray);
+    transition: background-color 0.3s;
 }
 
 .search__btn__icon{
@@ -90,4 +95,37 @@
     font-size: 0.8rem;
     right: 0;
     top: 0;
+}
+
+.search__modal__container{
+    display: flex;
+    justify-content: start;
+    align-items: start;
+    /* box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); */
+}
+
+.search__items__img{
+    display: flex;
+    justify-content: start;
+    align-items: start;
+    width: 400px;
+    margin: 2rem;
+
+}
+
+.search__items__info{
+    display: flex;
+    width: 600px;
+    justify-content: start;
+    align-items: start;
+    flex-direction: column;
+    margin-right: 2rem;
+}
+
+.add__cart__btn{
+    margin-top: 1rem;
+}
+
+.novo__btn{
+    font-size: 1rem;
 }

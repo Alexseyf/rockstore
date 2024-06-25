@@ -1,6 +1,50 @@
 .albuns__container{
     display: grid;
-    grid-template-columns: repeat(3, 1fr);
+    grid-template-columns: repeat(4, 1fr);
     justify-items: center;
-    margin-top: 2rem;
+    /* padding:  4rem; */
+}
+
+.novo__btn{
+    margin-right: 4rem;
+    background-color: #fab848;
+    color: white;
+    font-size: 1.5rem;
+    padding: 0.5rem 1rem;
+    border-radius: 5px;
+    cursor: pointer;
+    border: none;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+    transition: background-color 0.3s;
+}
+
+.novo__btn:hover{
+    background-color: #f7a00c;
+}
+
+.filter-options{
+    display: flex;
+    justify-content: center;
+    margin-top: 10rem;
+    gap: 2rem;
+}
+
+.filter-options button{
+    background-color: white;
+    color: #ccc;
+    font-size: 1rem;
+    padding: 0.5rem 1rem;
+    border-radius: 5px;
+    cursor: pointer;
+    border: none;
+}
+
+.filter-options button:hover{
+    color: #d7d7d7;
+}
+
+.filter-options span{
+    height: 2rem;
+    width: 0.15rem;
+    background-color: #ccc;
 }

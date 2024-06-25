@@ -1,4 +1,3 @@
-    "id": 27,
     "titulo": "Abbey Road",
     "artista": "The Beatles",
     "ano": 1969,
